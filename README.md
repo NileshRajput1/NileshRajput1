@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Singhraja501@gmail.com**
 
-- ⚡ Fun fact **Still a noobie, figuring how to channelize my intresets in one field**
+- ⚡ Fun fact **I am a Noobie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
