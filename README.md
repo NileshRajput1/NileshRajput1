@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Kumar Singh</h1>
-<h3 align="center">Currently a  2nd year CSE Student, A Passonate frontend developer, and got intresets in Cloud,Designing,Animation....</h3>
+<h3 align="center">Currently a  Pre-final year CSE Student, A Passonate frontend developer, and got intresets in Cloud,Designing,Animation....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshrajput1&label=Profile%20views&color=0e75b6&style=flat" alt="nileshrajput1" /> </p>
 
