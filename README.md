@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_nilesh_singh_" target="blank"><img src="https://img.shields.io/twitter/follow/_nilesh_singh_?logo=twitter&style=for-the-badge" alt="_nilesh_singh_" /></a> </p>
 
-- 📫 How to reach me **Singhraja501@gmail.com**
+- 📫 How to reach me **nileshkumarsingh9245@gmail.com**
 
 - ⚡ Fun fact **I have a habit of writing code with a playlist on, but somehow always end up focusing more when it's completely silent!**
 
