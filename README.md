@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Kumar Singh</h1>
-<h3 align="center">Currently a Final year CSE Student, A Passonate frontend developer, and got intresets in Cloud,Designing,Animation....</h3>
+<h3 align="center">Aspiring Software Engineer | Java, Python, SQL | AWS & DevOps Certified | Passionate about Full Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshrajput1&label=Profile%20views&color=0e75b6&style=flat" alt="nileshrajput1" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Singhraja501@gmail.com**
 
-- ⚡ Fun fact **I am a Noobie**
+- ⚡ Fun fact **I have a habit of writing code with a playlist on, but somehow always end up focusing more when it's completely silent!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
