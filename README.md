@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nilesh Kumar Singh</h1>
 <h3 align="center">Aspiring Software Engineer | Java, Python, SQL | AWS & DevOps Certified | Passionate about Full Stack Development</h3>
-
+<!-- Add this snippet for your profile image -->
+<div style="text-align: right;">
+  <img src="https://drive.google.com/uc?export=view&id=1Q6XV2pUmYbYVCBeZZWVxHm_YURN4OSkB" alt="Nilesh Kumar Singh" style="border-radius: 50%; width: 150px; height: 150px; margin-bottom: 20px;">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshrajput1&label=Profile%20views&color=0e75b6&style=flat" alt="nileshrajput1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nileshrajput1" alt="nileshrajput1" /></a> </p>
