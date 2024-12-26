@@ -1,10 +1,58 @@
-# 👋 Hi, I'm Nilesh Kumar Singh
+<p align="center">
+  <a href="https://github.com/NileshRajput1">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Nilesh%20Kumar%20Singh&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&repeat=false" />
+</a>
+  
+</p>
 
-### Aspiring Software Engineer | Flutter, Dart, Firebase, Git, Jira | AWS & DevOps Certified | Passionate about Full Stack Development
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Software%20Engineer;Flutter%20%7C%20Dart%20%7C%20Firebase%20%7C%20DevOps;%20AWS%20practitioner%20;Building%20scalable%20solutions&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-I'm currently working on automating mail server log fetching using Python and learning advanced concepts in Cyber Security, Data Structures & Algorithms, and Flutter. I love building cross-platform mobile applications and diving deep into the world of DevOps.
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.instagram.com/__nilesh_singh__"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/nilesh-kumar-singh-5b5927b8/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/_nilesh_singh_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://auth.geeksforgeeks.org/user/singhraja5011/profile"><img width="32px" alt="GeeksforGeeks" title="GeeksforGeeks" src="https://i.imgur.com/mVm29vK.png"></a>
+</p>
+
+<br/>
+
+<!-- Social badges section -->
+<p align="center">
+  <a href="https://github.com/NileshRajput1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NileshRajput1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/NileshRajput1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NileshRajput1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/NileshRajput1">
+    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=NileshRajput1&icon=1&color=0"/>
+</a>
+
+</p>
+
+<br/>
+
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="https://stars.github.com/profiles/nileshrajput1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star"/></a>
+</p>
+
+# 👋 Hi, I'm currently working on automating mail server log fetching using Python and learning advanced concepts in Cyber Security, Data Structures & Algorithms, and Flutter. I love building cross-platform mobile applications and diving deep into the world of DevOps.
 
 > **Fun Fact:** I'm a jack of all trades and master of none—always curious and eager to learn something new!
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="600"/>
+</div>
 
 ---
 
